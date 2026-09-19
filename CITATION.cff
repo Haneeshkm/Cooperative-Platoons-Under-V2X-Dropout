@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or the corrections documented in CORRECTIONS.md, please cite the manuscript below."
+title: "Headway Switching, Not Packet Loss, Destabilises Cooperative Platoons Under V2X Dropout"
+type: software
+authors:
+  - given-names: "Haneesh"
+    family-names: "K. M."
+    email: "haneesh.km@christuniversity.in"
+    affiliation: "Department of Electrical and Electronics Engineering, CHRIST University, Bangalore, India"
+  - given-names: "Jisha"
+    family-names: "P"
+    email: "jishap.ece@bmsce.ac.in"
+    affiliation: "Department of Electronics and Communication Engineering, BMS College of Engineering, Bangalore, India"
+  - given-names: "Suresh"
+    family-names: "K."
+    email: "suresh.k@christuniversity.in"
+    affiliation: "Department of Electrical and Electronics Engineering, CHRIST University, Bangalore, India"
+  - given-names: "Aravind Pitchai"
+    family-names: "Venkataraman"
+    email: "aravindpitchaivenkataraman@sjuit.ac.tz"
+    affiliation: "Department of Electrical, Electronics and Telecommunication Engineering, St. Joseph University in Tanzania, Dar Es Salaam, Tanzania"
+repository-code: "https://github.com/Haneeshkm/CACC-V2X-dropout"
+license: MIT
+version: 2.0.0
+date-released: 2026-09-19
+# NOTE: update with the venue, DOI, and publication year once the manuscript
+# revision is accepted.
